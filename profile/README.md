@@ -10,9 +10,7 @@ A Ore Software Hub é um espaço colaborativo para a criação de software de al
 
 ### 💡 Áreas de Atuação  
 ✅ Desenvolvimento Full-Stack (Angular & Quarkus)  
-✅ Computação Científica e Métodos Numéricos  
-✅ Aplicações com GPS e Sensores  
-✅ Desenvolvimento de Drones Inteligentes  
+✅ Computação Científica
 ✅ Projetos Open-Source  
 
 ## 🔥 Nossos Projetos  
