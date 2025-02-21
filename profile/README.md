@@ -9,7 +9,7 @@ Somos uma organização focada no desenvolvimento de soluções inovadoras, open
 A Ore Software Hub é um espaço colaborativo para a criação de software de alto desempenho. Nossa equipe trabalha com diversas tecnologias, priorizando qualidade, inovação e boas práticas de desenvolvimento.  
 
 ### 💡 Áreas de Atuação  
-✅ Desenvolvimento Full-Stack (Angular & Quarkus)  
+✅ Desenvolvimento Full-Stack
 ✅ Computação Científica
 ✅ Projetos Open-Source  
 
