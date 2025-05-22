@@ -1,25 +1,32 @@
-# Ore Software Hub 🚀  
+# Ore Software Hub 🚀
 
-**Bem-vindo à Ore Software Hub!**  
+**Bem-vindo à Ore Software Hub!**
 
-Somos uma organização focada no desenvolvimento de soluções inovadoras, open-source e tecnológicas. Nosso objetivo é criar e compartilhar conhecimento por meio de projetos robustos e eficientes, contribuindo para a comunidade de desenvolvedores.  
+Somos uma organização dedicada ao desenvolvimento de soluções inovadoras, open-source e tecnológicas, focada em criar e compartilhar conhecimento por meio de projetos robustos e eficientes, contribuindo para a comunidade global de desenvolvedores.
 
-## 📌 Sobre Nós  
+## 📌 Sobre Nós
 
-A Ore Software Hub é um espaço colaborativo para a criação de software de alto desempenho. Nossa equipe trabalha com diversas tecnologias, priorizando qualidade, inovação e boas práticas de desenvolvimento.  
+A Ore Software Hub funciona como o núcleo central da nossa organização, coordenando e apoiando as operações das nossas subsidiárias especializadas. Nossa missão é fomentar a inovação, a qualidade e as boas práticas no desenvolvimento de software.
+
+### 🏢 Nossas Subsidiárias
+
+- **Ore Labs**  
+  Focada no desenvolvimento de SaaS, projetos pessoais e contratos sob demanda, como landing pages e sistemas ERP. Aqui, buscamos entregar soluções empresariais escaláveis e práticas.
+
+- **Ore Studio**  
+  Divisão dedicada ao desenvolvimento de jogos, criando experiências interativas e inovadoras para dispositivos móveis e outras plataformas.
 
 ### 💡 Áreas de Atuação  
-✅ Desenvolvimento Full-Stack
-✅ Computação Científica
-✅ Projetos Open-Source  
+✅ Desenvolvimento Full-Stack  
+✅ Computação Científica  
+✅ Projetos Open-Source
+✅ Desenvolvimento de jogos  
 
-## 🔥 Nossos Projetos  
+## 🔥 Nossos Projetos
 
-Aqui estão alguns dos projetos que fazem parte da nossa organização:  
+[Inclua aqui uma lista ou descrição dos principais projetos das subsidiárias e da organização]
 
-
-
-## 🚀 Como Contribuir  
+## 🚀 Como Contribuir
 
 Quer colaborar com nossos projetos? Siga os passos abaixo:  
 
@@ -28,12 +35,13 @@ Quer colaborar com nossos projetos? Siga os passos abaixo:
 3. Faça um **commit** das suas mudanças.  
 4. Envie um **pull request** para revisão.  
 
-Ficaremos felizes em receber suas contribuições!  
+Ficaremos felizes em receber suas contribuições!
 
-## 🤝 Contato  
+## 🤝 Contato
 
 📧 Email:  
 🌐 Site/Blog:  
-📱 LinkedIn/GitHub/Twitter:   
+📱 LinkedIn/GitHub/Twitter:  
 
-Junte-se a nós nessa jornada tecnológica! 🚀  
+Junte-se a nós nessa jornada tecnológica! 🚀
+
